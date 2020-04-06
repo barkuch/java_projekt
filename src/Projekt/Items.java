@@ -1,5 +1,6 @@
 package Projekt;
 
-public class Items {
-
+public class Items 
+{
+//tu cos bedzie
 }
