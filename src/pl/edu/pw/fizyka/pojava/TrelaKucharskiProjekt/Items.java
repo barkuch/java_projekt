@@ -1,4 +1,4 @@
-package Projekt;
+package pl.edu.pw.fizyka.pojava.TrelaKucharskiProjekt;
 
 public class Items 
 {
