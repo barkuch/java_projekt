@@ -267,7 +267,7 @@ public class Archer extends JFrame
 	    
 	    	 //napisze tu cos i chce wiedziec co sie stanies  	 ffffff   
 	private class SliderChangeListener implements ChangeListener  //klasa implementacyjna suwaka
-  {
+	{
 		@Override
 		public void stateChanged(ChangeEvent e) 
 		{
@@ -283,7 +283,7 @@ public class Archer extends JFrame
 	public static void main(String[] args) 
 	{
 		Archer frame = new Archer(); 
-      frame.setVisible(true);
+		frame.setVisible(true);
 	}
 
 }
